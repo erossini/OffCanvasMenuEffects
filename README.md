@@ -12,3 +12,5 @@ Integrate or build upon it for free in your personal or commercial projects. Don
 Read more here: [License](http://tympanus.net/codrops/licensing/)
 
 [© Codrops 2014](http://www.codrops.com)
+
+Other example of Off canvas menu http://javascriptkit.com/script/script2/offcanvasmenu.shtml
